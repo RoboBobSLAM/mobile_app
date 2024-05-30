@@ -1,3 +1,3 @@
 # mobile_app
 
-A new Flutter project.
+An app to interface iRobot
